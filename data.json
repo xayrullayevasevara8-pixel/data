@@ -1,0 +1,403 @@
+
+[
+  {
+    "id": 1,
+    "davlat": "O‘zbekiston",
+    "poytaxt": "Toshkent",
+    "aholi": 37000000,
+    "valyuta": "So‘m",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 2,
+    "davlat": "AQSH",
+    "poytaxt": "Vashington",
+    "aholi": 340000000,
+    "valyuta": "Dollar",
+    "qit'a": "Shimoliy Amerika"
+  },
+  {
+    "id": 3,
+    "davlat": "Yaponiya",
+    "poytaxt": "Tokio",
+    "aholi": 123000000,
+    "valyuta": "Yen",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 4,
+    "davlat": "Germaniya",
+    "poytaxt": "Berlin",
+    "aholi": 84000000,
+    "valyuta": "Yevro",
+    "qit'a": "Yevropa"
+  },
+  {
+    "id": 5,
+    "davlat": "Fransiya",
+    "poytaxt": "Parij",
+    "aholi": 68000000,
+    "valyuta": "Yevro",
+    "qit'a": "Yevropa"
+  },
+  {
+    "id": 6,
+    "davlat": "Xitoy",
+    "poytaxt": "Pekin",
+    "aholi": 1400000000,
+    "valyuta": "Yuan",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 7,
+    "davlat": "Hindiston",
+    "poytaxt": "Yangi Dehli",
+    "aholi": 1450000000,
+    "valyuta": "Rupiya",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 8,
+    "davlat": "Rossiya",
+    "poytaxt": "Moskva",
+    "aholi": 144000000,
+    "valyuta": "Rubl",
+    "qit'a": "Yevropa va Osiyo"
+  },
+  {
+    "id": 9,
+    "davlat": "Turkiya",
+    "poytaxt": "Anqara",
+    "aholi": 85000000,
+    "valyuta": "Lira",
+    "qit'a": "Yevropa va Osiyo"
+  },
+  {
+    "id": 10,
+    "davlat": "Braziliya",
+    "poytaxt": "Brazilia",
+    "aholi": 212000000,
+    "valyuta": "Real",
+    "qit'a": "Janubiy Amerika"
+  },
+  {
+    "id": 11,
+    "davlat": "Buyuk Britaniya",
+    "poytaxt": "London",
+    "aholi": 69000000,
+    "valyuta": "Funt sterling",
+    "qit'a": "Yevropa"
+  },
+  {
+    "id": 12,
+    "davlat": "Italiya",
+    "poytaxt": "Rim",
+    "aholi": 59000000,
+    "valyuta": "Yevro",
+    "qit'a": "Yevropa"
+  },
+  {
+    "id": 13,
+    "davlat": "Ispaniya",
+    "poytaxt": "Madrid",
+    "aholi": 49000000,
+    "valyuta": "Yevro",
+    "qit'a": "Yevropa"
+  },
+  {
+    "id": 14,
+    "davlat": "Kanada",
+    "poytaxt": "Ottava",
+    "aholi": 41000000,
+    "valyuta": "Kanada dollari",
+    "qit'a": "Shimoliy Amerika"
+  },
+  {
+    "id": 15,
+    "davlat": "Avstraliya",
+    "poytaxt": "Kanberra",
+    "aholi": 27000000,
+    "valyuta": "Avstraliya dollari",
+    "qit'a": "Okeaniya"
+  },
+  {
+    "id": 16,
+    "davlat": "Janubiy Koreya",
+    "poytaxt": "Seul",
+    "aholi": 52000000,
+    "valyuta": "Von",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 17,
+    "davlat": "Indoneziya",
+    "poytaxt": "Jakarta",
+    "aholi": 284000000,
+    "valyuta": "Rupiya",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 18,
+    "davlat": "Pokiston",
+    "poytaxt": "Islomobod",
+    "aholi": 255000000,
+    "valyuta": "Pokiston rupiyasi",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 19,
+    "davlat": "Bangladesh",
+    "poytaxt": "Dakka",
+    "aholi": 175000000,
+    "valyuta": "Taka",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 20,
+    "davlat": "Saudiya Arabistoni",
+    "poytaxt": "Ar-Riyod",
+    "aholi": 35000000,
+    "valyuta": "Riyol",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 21,
+    "davlat": "Qozog‘iston",
+    "poytaxt": "Astana",
+    "aholi": 20000000,
+    "valyuta": "Tenge",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 22,
+    "davlat": "Qirg‘iziston",
+    "poytaxt": "Bishkek",
+    "aholi": 7200000,
+    "valyuta": "Som",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 23,
+    "davlat": "Tojikiston",
+    "poytaxt": "Dushanbe",
+    "aholi": 10500000,
+    "valyuta": "Somoniy",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 24,
+    "davlat": "Turkmaniston",
+    "poytaxt": "Ashxobod",
+    "aholi": 7500000,
+    "valyuta": "Manat",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 25,
+    "davlat": "Afg‘oniston",
+    "poytaxt": "Kobul",
+    "aholi": 43000000,
+    "valyuta": "Afg‘oniy",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 26,
+    "davlat": "Eron",
+    "poytaxt": "Tehron",
+    "aholi": 92000000,
+    "valyuta": "Rial",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 27,
+    "davlat": "Iroq",
+    "poytaxt": "Bag‘dod",
+    "aholi": 46000000,
+    "valyuta": "Iroq dinori",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 28,
+    "davlat": "Misr",
+    "poytaxt": "Qohira",
+    "aholi": 118000000,
+    "valyuta": "Misr funti",
+    "qit'a": "Afrika"
+  },
+  {
+    "id": 29,
+    "davlat": "Janubiy Afrika Respublikasi",
+    "poytaxt": "Pretoriya",
+    "aholi": 64000000,
+    "valyuta": "Rand",
+    "qit'a": "Afrika"
+  },
+  {
+    "id": 30,
+    "davlat": "Nigeriya",
+    "poytaxt": "Abuja",
+    "aholi": 237000000,
+    "valyuta": "Nayra",
+    "qit'a": "Afrika"
+  },
+  {
+    "id": 31,
+    "davlat": "Keniya",
+    "poytaxt": "Nayrobi",
+    "aholi": 57000000,
+    "valyuta": "Keniya shillingi",
+    "qit'a": "Afrika"
+  },
+  {
+    "id": 32,
+    "davlat": "Marokash",
+    "poytaxt": "Rabot",
+    "aholi": 38000000,
+    "valyuta": "Dirham",
+    "qit'a": "Afrika"
+  },
+  {
+    "id": 33,
+    "davlat": "Argentina",
+    "poytaxt": "Buenos-Ayres",
+    "aholi": 46000000,
+    "valyuta": "Argentina pesosi",
+    "qit'a": "Janubiy Amerika"
+  },
+  {
+    "id": 34,
+    "davlat": "Meksika",
+    "poytaxt": "Mexiko",
+    "aholi": 132000000,
+    "valyuta": "Meksika pesosi",
+    "qit'a": "Shimoliy Amerika"
+  },
+  {
+    "id": 35,
+    "davlat": "Chili",
+    "poytaxt": "Santyago",
+    "aholi": 20000000,
+    "valyuta": "Chili pesosi",
+    "qit'a": "Janubiy Amerika"
+  },
+  {
+    "id": 36,
+    "davlat": "Peru",
+    "poytaxt": "Lima",
+    "aholi": 34000000,
+    "valyuta": "Sol",
+    "qit'a": "Janubiy Amerika"
+  },
+  {
+    "id": 37,
+    "davlat": "Kolumbiya",
+    "poytaxt": "Bogota",
+    "aholi": 53000000,
+    "valyuta": "Kolumbiya pesosi",
+    "qit'a": "Janubiy Amerika"
+  },
+  {
+    "id": 38,
+    "davlat": "Shvetsiya",
+    "poytaxt": "Stokgolm",
+    "aholi": 10600000,
+    "valyuta": "Shvetsiya kronasi",
+    "qit'a": "Yevropa"
+  },
+  {
+    "id": 39,
+    "davlat": "Norvegiya",
+    "poytaxt": "Oslo",
+    "aholi": 5600000,
+    "valyuta": "Norvegiya kronasi",
+    "qit'a": "Yevropa"
+  },
+  {
+    "id": 40,
+    "davlat": "Shveysariya",
+    "poytaxt": "Bern",
+    "aholi": 9000000,
+    "valyuta": "Shveysariya franki",
+    "qit'a": "Yevropa"
+  },
+  {
+    "id": 41,
+    "davlat": "Niderlandiya",
+    "poytaxt": "Amsterdam",
+    "aholi": 18000000,
+    "valyuta": "Yevro",
+    "qit'a": "Yevropa"
+  },
+  {
+    "id": 42,
+    "davlat": "Polsha",
+    "poytaxt": "Varshava",
+    "aholi": 38000000,
+    "valyuta": "Zlotiy",
+    "qit'a": "Yevropa"
+  },
+  {
+    "id": 43,
+    "davlat": "Ukraina",
+    "poytaxt": "Kyiv",
+    "aholi": 37000000,
+    "valyuta": "Grivna",
+    "qit'a": "Yevropa"
+  },
+  {
+    "id": 44,
+    "davlat": "Gretsiya",
+    "poytaxt": "Afina",
+    "aholi": 10400000,
+    "valyuta": "Yevro",
+    "qit'a": "Yevropa"
+  },
+  {
+    "id": 45,
+    "davlat": "Tailand",
+    "poytaxt": "Bangkok",
+    "aholi": 72000000,
+    "valyuta": "Bat",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 46,
+    "davlat": "Vyetnam",
+    "poytaxt": "Xanoy",
+    "aholi": 101000000,
+    "valyuta": "Dong",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 47,
+    "davlat": "Malayziya",
+    "poytaxt": "Kuala-Lumpur",
+    "aholi": 36000000,
+    "valyuta": "Ringgit",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 48,
+    "davlat": "Singapur",
+    "poytaxt": "Singapur",
+    "aholi": 6000000,
+    "valyuta": "Singapur dollari",
+    "qit'a": "Osiyo"
+  },
+  {
+    "id": 49,
+    "davlat": "Yangi Zelandiya",
+    "poytaxt": "Vellington",
+    "aholi": 5300000,
+    "valyuta": "Yangi Zelandiya dollari",
+    "qit'a": "Okeaniya"
+  },
+  {
+    "id": 50,
+    "davlat": "Shri-Lanka",
+    "poytaxt": "Shri-Jayavardenepura-Kotte",
+    "aholi": 22000000,
+    "valyuta": "Shri-Lanka rupiyasi",
+    "qit'a": "Osiyo"
+  }
+]
